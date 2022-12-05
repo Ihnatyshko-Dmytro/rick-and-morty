@@ -1,5 +1,5 @@
-function App() {
-  return <div className="App"></div>;
+function Layout() {
+  return <div className="Layout"></div>;
 }
 
-export default App;
+export default Layout;
