@@ -1,5 +1,7 @@
-function Layout() {
-  return <div className="Layout"></div>;
+export const Layout = () => {
+ return (
+  <div>
+  
+  </div>
+ )
 }
-
-export default Layout;
